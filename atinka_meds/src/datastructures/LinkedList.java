@@ -1,4 +1,4 @@
-package dataStructures;
+package datastructures;
 
 import model.Transaction;
 import java.util.ArrayList;
