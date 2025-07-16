@@ -1,8 +1,9 @@
 package datastructures;
 
-import model.Transaction;
 import java.util.ArrayList;
 import java.util.List;
+
+import model.Transaction;
 
 public class LinkedList {
     private class Node {
